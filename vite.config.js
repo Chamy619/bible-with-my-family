@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/bible-with-my-familiy/',
+  base: '/bible-with-my-family/',
 })
